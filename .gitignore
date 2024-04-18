@@ -1,3 +1,5 @@
 config.yaml
 model/__pycache__/
 utils/__pycache__/
+logs/restgpt_spotify/1.log
+.cache
