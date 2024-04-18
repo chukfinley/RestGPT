@@ -1,0 +1,5 @@
+langchain
+colorama
+tiktoken
+spotipy
+openai==0.28
