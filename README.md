@@ -61,7 +61,7 @@ Below is the statistics of the data. We report the number of instructions with d
 ## Setup
 
 ```bash
-pip install langchain colorama tiktoken spotipy openai
+pip install -r requirements.txt
 ```
 
 create `logs` folder
